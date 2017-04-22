@@ -1,1 +1,1 @@
-# http://alxrio.github.io/Curriculo
+# Curriculo
